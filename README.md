@@ -1,7 +1,7 @@
 # Covid-19 Impact on Mobile Networks
 Data Analysis of LTE Networks KPIs
 
-Delivery: [Report](report.pdf) + [Code(link to Google Colab)](https://colab.research.google.com/drive/1AP5TiSwLySGQaKAvDw5l3YITxhAAw5tL?authuser=2#scrollTo=I_NqoNv35lwc)
+Delivery: [Report](report.pdf) + [Code](https://github.com/riccardopezzoni/Covid-19_Impact_on_Mobile_Networks/blob/main/MRN_Project2.ipynb)
 
 The aim of the project was to study he impact of the lock-down due to COVID-19 pandemic on the 800 MHz frequency layer of an operator’s LTE network in the city of Milan.
 To do that, I had access to Radio Access Network data relatively collected between January 1st and March 31st 2020 (full lock- down in Italy started on 9th March 2020).
